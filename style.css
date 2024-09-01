@@ -1,0 +1,82 @@
+.nav{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+  
+}
+.nav__desc{
+    color:gray;
+    margin-bottom: 10px;
+    
+}
+.food{
+    width: 200px;
+    height:200px;
+}
+
+.foodone{
+    width:200px;
+    border: solid black 2px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 300px;
+    
+   } 
+.foodtwo{
+    border: solid black 2px;
+    width:200px;
+    display: inline-block;
+    text-align: center;
+ }
+   
+    
+
+.foodthree{
+  border: solid black 2px;
+    width:200px;
+    display: inline-block;
+    text-align: center;
+    
+} 
+.foodfour{
+   border: solid black 2px;
+    width:200px;
+    display: inline-block;
+    text-align: center;
+    
+} 
+
+
+
+
+.food__button{
+    background-color: black;
+    color: aliceblue;
+  
+    
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.footer__contact{
+    display: inline-block;
+}
+
+.footer__button{
+    display: block;
+    margin-left: 600px;
+    width: 300px;
+    background-color: yellow;
+    margin-bottom: 80px;
+   
+   
+}
+.table{
+    text-align: center;
+    display: inline-block;
+}
+
+
